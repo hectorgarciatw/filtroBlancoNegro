@@ -16,10 +16,6 @@ Utilizando un filtro de paso bajo modificamos los colores de una matriz de color
 
 -   Correr utilizando utilizando Live Server
 
-```
-dotnet run
-```
-
 ## Autor
 
 Lic. García Héctor  
