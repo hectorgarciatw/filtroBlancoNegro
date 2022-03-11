@@ -1,20 +1,20 @@
-# Resolviendo laberintos con recursión (Backtracking)
+# Filtro blanco y negro (Matrices)
 
-Implementación de un buscador de caminos de laberintos recursivo en C#
+Implementación de un filtro blanco y negro en mapas de bits.
 
 ## Descripción
 
-Utilizando la técnica de backingtrack se busca determinar la solución de laberintos encontrando una posible salida.
+Utilizando un filtro de paso bajo modificamos los colores de una matriz de colores rgb utilizando un umbral a blanco y negro.
 
 ## Comenzando
 
 ### Dependencias
 
--   .NET Sdk https://dotnet.microsoft.com/download
+-   P5js https://p5js.org/download/
 
 ### Ejecutando el programa
 
--   Correr utilizando siguiente comando
+-   Correr utilizando utilizando Live Server
 
 ```
 dotnet run
@@ -36,4 +36,4 @@ MIT
 
 ## Conocimientos
 
-Ejercitación propuesta para utilizar recursiones y comprender el funcionamiento de la técnica de programación "Backingtrack".
+Ejercitación propuesta para utilizar fortalecer manejo de matrices, arreglos unidimensionales y creación/modificación de colores RGB.
